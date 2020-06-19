@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emonno13/hanko-overwatch-reactjs/static/css/main.ed940a5d.chunk.css",
+    "main.js": "/emonno13/hanko-overwatch-reactjs/static/js/main.fe0bdf84.chunk.js",
+    "main.js.map": "/emonno13/hanko-overwatch-reactjs/static/js/main.fe0bdf84.chunk.js.map",
+    "runtime-main.js": "/emonno13/hanko-overwatch-reactjs/static/js/runtime-main.414f109c.js",
+    "runtime-main.js.map": "/emonno13/hanko-overwatch-reactjs/static/js/runtime-main.414f109c.js.map",
+    "static/js/2.615752ba.chunk.js": "/emonno13/hanko-overwatch-reactjs/static/js/2.615752ba.chunk.js",
+    "static/js/2.615752ba.chunk.js.map": "/emonno13/hanko-overwatch-reactjs/static/js/2.615752ba.chunk.js.map",
+    "index.html": "/emonno13/hanko-overwatch-reactjs/index.html",
+    "precache-manifest.80391da6779251e185a36df1a110a825.js": "/emonno13/hanko-overwatch-reactjs/precache-manifest.80391da6779251e185a36df1a110a825.js",
+    "service-worker.js": "/emonno13/hanko-overwatch-reactjs/service-worker.js",
+    "static/css/main.ed940a5d.chunk.css.map": "/emonno13/hanko-overwatch-reactjs/static/css/main.ed940a5d.chunk.css.map",
+    "static/js/2.615752ba.chunk.js.LICENSE.txt": "/emonno13/hanko-overwatch-reactjs/static/js/2.615752ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.414f109c.js",
+    "static/js/2.615752ba.chunk.js",
+    "static/css/main.ed940a5d.chunk.css",
+    "static/js/main.fe0bdf84.chunk.js"
+  ]
+}
